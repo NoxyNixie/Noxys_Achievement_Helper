@@ -1,13 +1,13 @@
 {
 	"name": "Noxys_Achievement_Helper",
-	"version": "0.2.2",
-	"factorio_version": "0.18",
+	"version": "0.3.0",
+	"factorio_version": "1.0",
 	"title": "Noxys Achievement Helper",
 	"author": "Noxy",
 	"contact": "not.a.valid.email.address@example.com",
 	"homepage": "https://mods.factorio.com/user/_noxy_",
 	"description": "This helps you to do some of the achievements by stopping you from doing what would invalidate the achievement. Entirely configurable with mod settings.",
 	"dependencies": [
-		"base >= 0.18.0"
+		"base >= 1.0.0"
 	]
 }
