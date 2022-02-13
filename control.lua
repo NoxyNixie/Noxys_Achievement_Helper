@@ -24,11 +24,9 @@ local function read_buildable()
 end
 
 local inventories = {
-	defines.inventory.player_quickbar,
-	defines.inventory.player_main,
-	defines.inventory.player_trash,
-	defines.inventory.player_vehicle,
-	defines.inventory.god_quickbar,
+	defines.inventory.character_main,
+	defines.inventory.character_trash,
+	defines.inventory.character_vehicle,
 	defines.inventory.god_main
 }
 
